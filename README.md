@@ -1,2 +1,2 @@
-# indonesian_data_viz
-This is repository about Indonesia's data vizualisation
+# Indonesia Data Vizualisation
+This is repository about Indonesia's data vizualisation. 
