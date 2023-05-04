@@ -4,13 +4,13 @@ The data that i used is form Data Kontur Indonesia Density Population which rele
 
 The following are the results of the data visualization that I have made about population density in Indonesia and several other small areas.
 
-##Indonesia Density Population
+## Indonesia Density Population
 ![Indonesia Density Population!](images/indonesia_final_plot.png)
-##Central Java Density Population
+## Central Java Density Population
 ![Indonesia Density Population!](images/titled_final_plot.png)
-##Sulawesi Island Density Population
+## Sulawesi Island Density Population
 ![Indonesia Density Population!](images/sulawesi_final_plot.png)
-##Yogyakarta Density Population
+## Yogyakarta Density Population
 ![Indonesia Density Population!](images/jogja_final_plot.png)
-##Semarang Density Population
+## Semarang Density Population
 ![Indonesia Density Population!](images/semarang_final_plot.png)
